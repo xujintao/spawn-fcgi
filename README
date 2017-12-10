@@ -11,6 +11,9 @@ spawn-fcgi
 :abstract:
   spawn-fcgi is used to spawn FastCGI applications
 
+:downloads:
+  http://redmine.lighttpd.net/news/9  
+  
 Features
 --------
 - binds to IPv4/IPv6 and Unix domain sockets
